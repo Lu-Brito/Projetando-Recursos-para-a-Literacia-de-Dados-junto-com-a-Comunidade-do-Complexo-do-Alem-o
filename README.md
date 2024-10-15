@@ -9,3 +9,4 @@ Este repositório guarda os materiais relativos ao artigo Projetando Recursos pa
 
 3 Proto personas
 
+4 Cartão para preenchimento no workshop "Computação desplugada: coleta, análise e arte com dados"  
